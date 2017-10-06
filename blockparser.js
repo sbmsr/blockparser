@@ -28,18 +28,7 @@ else {/* oops */}
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+// Helper Functions
 
 function reverseString(str) {
     var newString = "";
